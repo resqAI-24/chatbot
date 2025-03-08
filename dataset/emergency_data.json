@@ -1,0 +1,46 @@
+{
+  "emergency_responses": [
+    {
+      "category": "Natural Disasters",
+      "type": "Earthquake",
+      "keywords": ["earthquake", "tremors", "ground shaking", "quake", "aftershock", "seismic activity", "fault line movement", "vibrations", "major tremor", "strong shaking", "minor quake", "earth tremor", "tectonic movement", "shaking house", "building moving", "floor shaking", "rumbling sound", "earth moving", "land movement", "shockwaves", "sudden jolt", "violent shaking", "unsteady ground", "seismic shock", "underground movement", "earthquake warning", "quake emergency", "what to do in an earthquake", "earthquake survival", "quake preparedness", "earthquake rescue", "drop cover hold", "quake safety measures", "quake precautions", "staying safe in an earthquake", "building collapse", "cracked walls", "falling debris", "tsunami warning after earthquake", "evacuate earthquake zone", "shelter during earthquake", "where to hide during earthquake", "earthquake response", "how to protect yourself in earthquake", "earthquake drills", "quake protection", "earthquake safety protocols"],
+      "answer_en": "If you feel tremors, stay calm. \n\n✔ Indoors: Drop to the ground, take cover under sturdy furniture, and hold on. Stay away from windows.\n✔ Outdoors: Move to an open area away from buildings and power lines.\n✔ In a vehicle: Pull over safely and stay inside. Avoid bridges and tunnels.\n✔ After: Expect aftershocks. Check yourself and others for injuries. Call 102 if medical help is needed. 💙"
+    },
+    {
+      "category": "Natural Disasters",
+      "type": "Flood",
+      "keywords": ["flood", "water rising", "drowning", "heavy rain", "flash flood", "evacuate", "house flooding", "water everywhere", "overflowing river", "dam breach", "storm surge", "flood warning", "monsoon flood", "waterlogged", "dangerous currents", "flash flood risk", "urban flooding", "emergency flooding", "flood rescue", "flood survival", "flood evacuation plan", "flood emergency contacts", "stay above water", "flood barriers", "avoid flood waters", "water levels increasing", "flash flood signs", "safe zones during flood", "flood action plan", "evacuating flood zone", "protecting against floods", "flood water contamination", "rescuing flood victims", "water damage control", "how to prepare for floods", "flood disaster recovery", "power outages during floods", "flood escape routes"],
+      "answer_en": "If you are in a flood zone, move to higher ground immediately. \n\n✔ Do not walk or drive through floodwaters. \n✔ If water is entering your home, turn off electricity. \n✔ If trapped, call emergency services. You’re not alone. 💙"
+    },
+    {
+      "category": "Natural Disasters",
+      "type": "Tsunami",
+      "keywords": ["tsunami", "ocean waves", "giant wave", "underwater earthquake", "coastal flooding", "seismic sea wave", "tsunami alert", "tsunami warning", "dangerous waves", "tsunami evacuation", "what to do in a tsunami", "how to survive a tsunami", "tsunami preparedness", "tsunami hitting", "wave surge", "ocean disturbance", "rising sea level", "seawater pulling back", "fast-moving waves", "tsunami rescue", "tsunami survival tips", "safe zones for tsunami", "evacuate tsunami zone", "tsunami approaching", "how to stay safe in tsunami"],
+      "answer_en": "If you receive a tsunami warning or see the ocean suddenly pull back: \n\n✔ Move to higher ground immediately. \n✔ Do not wait to see the waves. \n✔ Stay away from the shore until authorities declare it safe. 💙"
+    },
+    {
+      "category": "Natural Disasters",
+      "type": "Wildfire",
+      "keywords": ["wildfire", "forest fire", "bushfire", "fire spreading", "smoke in the air", "evacuate due to fire", "wildfire emergency", "wildfire preparedness", "fire containment", "fire danger zone", "uncontrolled fire", "how to escape wildfire", "fire evacuating tips", "wildfire approaching", "fire spreading fast", "stay safe from fire", "house in wildfire area", "protecting from wildfire", "firefighters responding", "what to do during wildfire", "smoke inhalation danger", "air quality hazard", "how to survive wildfire"],
+      "answer_en": "If a wildfire is near your area: \n\n✔ Evacuate immediately if instructed. \n✔ Close all windows and doors to prevent smoke inhalation. \n✔ If trapped, stay inside a building and call emergency services. 💙"
+    },
+    {
+      "category": "Natural Disasters",
+      "type": "Hurricane",
+      "keywords": ["hurricane", "cyclone", "typhoon", "storm surge", "hurricane category", "storm approaching", "windstorm", "evacuate hurricane zone", "hurricane emergency", "hurricane preparedness", "hurricane warning", "hurricane season", "heavy rainfall hurricane", "how to stay safe in hurricane", "hurricane survival", "hurricane safety tips", "hurricane coming", "power outage due to hurricane", "flooding risk from hurricane", "hurricane wind speed", "hurricane shelter", "hurricane evacuation route"],
+      "answer_en": "If a hurricane is approaching: \n\n✔ Stay indoors and away from windows. \n✔ Evacuate if advised by authorities. \n✔ Have emergency supplies ready and stay updated through weather reports. 💙"
+    },
+    {
+      "category": "Natural Disasters",
+      "type": "Landslide",
+      "keywords": ["landslide", "mudslide", "rockslide", "debris flow", "earth movement", "hillside collapse", "unstable ground", "landslip", "rockfall", "steep slope collapse", "mountain falling", "sliding rocks", "mass wasting", "hillside erosion", "unstable soil", "heavy rain landslide", "earthquake-triggered landslide", "land giving way", "landslide warning", "landslide evacuation", "landslide preparedness", "avoiding landslides", "landslide signs", "slope instability", "how to stay safe in landslide", "landslide survival tips", "escaping landslides", "dangerous slopes", "steep terrain hazard", "landslide damage control", "post-landslide recovery"],
+      "answer_en": "If you are in a landslide-prone area: \n\n✔ Move to higher, stable ground immediately. \n✔ Avoid river valleys and steep slopes. \n✔ Be alert for rumbling sounds or sudden changes in water flow. \n✔ If trapped, protect your head and call emergency services. 💙"
+    },
+    {
+      "category": "Natural Disasters",
+      "type": "Volcanic Eruption",
+      "keywords": ["volcanic eruption", "volcano activity", "lava flow", "ash cloud", "pyroclastic flow", "volcanic ash", "volcano alert", "eruption warning", "magma movement", "seismic activity volcano", "volcanic explosion", "volcanic gas", "hot ash", "lahar", "volcanic mudflow", "volcano tremors", "volcano evacuation", "volcano shelter", "protecting from ash", "volcano disaster preparedness", "how to survive volcanic eruption", "eruption safety tips", "escaping lava", "ashfall precautions", "volcano safety measures", "volcano emergency response", "volcanic hazards", "how to breathe in volcanic ash", "staying safe during eruption", "post-eruption recovery", "volcano affected areas", "volcano evacuation route"],
+      "answer_en": "If a volcanic eruption occurs: \n\n✔ Evacuate immediately if advised. \n✔ Cover your nose and mouth with a damp cloth to avoid inhaling ash. \n✔ Stay indoors and close all windows and doors. \n✔ Avoid low-lying areas where lava or mudflows could reach. 💙"
+    }
+  ]
+}
